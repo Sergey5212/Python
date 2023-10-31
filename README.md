@@ -1,1 +1,1 @@
-# Sergey
+Учёба по Python
